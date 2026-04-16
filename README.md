@@ -1,8 +1,9 @@
 # myportpolio
 컴퓨터구조 및 운영체제 수업
 ---
+<link rel="stylesheet" href="./style.css">
 <details>
- <summary># Day1</summary>
+ <summary>Day1</summary>
 
 #### Chapter 1. 컴퓨터 구조
  컴퓨터가 이해하는 정보, 컴퓨터의 네 가지 핵심 부품
@@ -120,7 +121,7 @@
 </details>
 
 <details>
- <summary># Day2</summary>
+ <summary>Day2</summary>
 ### Charter 4. CPU의 작동 원리
 
 - ALU
