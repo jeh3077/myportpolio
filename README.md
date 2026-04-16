@@ -6,9 +6,9 @@
 ## 🗓️ Day 1
 
 <details>
-<summary><b>#### Chapter 1. 컴퓨터 구조 핵심 부품</b></summary>
+<summary><b>Chapter 1. 컴퓨터 구조 핵심 부품</b></summary>
 
-### 1. 컴퓨터가 이해하는 정보
+1. 컴퓨터가 이해하는 정보  
 
 
 * **데이터:** 숫자, 문자, 이미지 등 정적인 정보
