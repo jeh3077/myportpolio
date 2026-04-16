@@ -120,8 +120,8 @@
 </details>
 
 <details>
- <summary>### Charter 4. CPU의 작동 원리</summary>
-
+ <summary># Day2</summary>
+### Charter 4. CPU의 작동 원리
 
 - ALU
     - 레지스터를 통해 피연산자를 받아들이고, 제어장치로부터 수행할 연산을 알려주는 제어 신호를 받아 들인다.
@@ -251,8 +251,8 @@
 </details>
 
 <details>
- <summary> ### Charter 6. 메모리와 캐시 메모리</summary>
-
+ <summary>Day 3</summary>
+ ### Charter 6. 메모리와 캐시 메모리
 - RAM의 특징과 종류
     - 특징
         - 휘발성 저장 장치
